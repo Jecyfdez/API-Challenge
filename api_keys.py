@@ -1,3 +1,3 @@
 
 # Google API Key
-g_key = "AIzaSyAIR8C5TKIT3_KJndYqkDgDRN08aDFiMAQ"
+g_key = "AIzaSyB2iCtO0sEabjUTEXD2Fge8dJjm2sSRdY0"
